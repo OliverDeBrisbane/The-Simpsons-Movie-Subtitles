@@ -17,3 +17,7 @@ This project is about translating the subtitles to The Simpsons Movie into every
 14. Hebrew
 15. Yiddish
 16. Filipino
+17. Western Frisian
+18. Sundanese
+19. Icelandic
+20. Basque
