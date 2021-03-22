@@ -12,4 +12,5 @@ This project is about translating the subtitles to The Simpsons Movie into every
 9. Zulu
 10. Xhosa
 11. Southern Sotho
-12. 
+12. Amharic
+13. Afrikaans
