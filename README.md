@@ -21,3 +21,6 @@ This project is about translating the subtitles to The Simpsons Movie into every
 18. Sundanese
 19. Icelandic
 20. Basque
+21. Scottish Gaelic
+22. Welsh
+23. Irish
