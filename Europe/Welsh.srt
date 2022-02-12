@@ -587,7 +587,7 @@ noeth.
 
 132
 00:11:37,854 --> 00:11:39,022
-Efallai y bydd merched yn gweld fy nwdl.
+Efallai y bydd merched yn gweld fy pidyn.
 
 133
 00:11:39,230 --> 00:11:44,194
@@ -776,7 +776,7 @@ Gweithredu.
 174
 00:14:43,999 --> 00:14:48,628
 Hei, hei! Eich hen bal Krusty yw hi, ar 
-gyfer fy mrechdan porc newydd, y Klogger.
+gyfer fy mrechdan porc newydd, y Clogir.
 
 175
 00:14:48,837 --> 00:14:53,758
@@ -860,7 +860,7 @@ O, mae gennych chi gymaint o edrychiadau.
 
 193
 00:16:46,997 --> 00:16:48,790
-Felly dyna beth yw snug.
+Felly dyna beth yw snwg.
 
 194
 00:16:48,999 --> 00:16:51,251
@@ -881,7 +881,7 @@ Nid ydych chi'n gwybod beth yw garw, chwaer.
 198
 00:17:03,680 --> 00:17:06,766
 Bart, wyddoch chi, pryd bynnag y bydd fy bechgyn yn 
-pobi swp o frownies ...
+pobi swp o gwgu ...
 
 199
 00:17:06,975 --> 00:17:08,310
@@ -894,7 +894,7 @@ Ydy'ch tad byth yn mynd â chi i bysgota?
 201
 00:17:13,857 --> 00:17:17,444
 Dad, nid yw'n deg defnyddio 
-zapper byg i ddal y pysgod.
+sapyr byg i ddal y pysgod.
 
 202
 00:17:17,652 --> 00:17:21,156
@@ -913,11 +913,11 @@ fwy o hwyl gyda chi.
 205
 00:17:39,883 --> 00:17:42,677
 O, gwych. Nawr, beth am i 
-mi drwsio rhywfaint o goco i chi?
+mi drwsio rhywfaint o siocled poeth i chi?
 
 206
 00:17:42,886 --> 00:17:44,763
-Dim ffordd. Coco ar gyfer wusses.
+Dim ffordd. Siocled poeth ar gyfer wimps.
 
 207
 00:17:44,971 --> 00:17:47,849
@@ -926,7 +926,7 @@ meddwl, mae ar y silff ffenestr.
 
 208
 00:18:08,161 --> 00:18:09,621
-O, fy Nuw.
+O, fy Duw.
 
 209
 00:18:11,373 --> 00:18:14,459
@@ -936,7 +936,7 @@ rhan orau wrthych . Mae wrth ei fodd â'r amgylchedd.
 210
 00:18:14,668 --> 00:18:19,256
 O, aros! Ni ddywedais y 
-rhan orau wrthych o hyd . Mae ganddo frig Gwyddelig.
+rhan orau wrthych o hyd. Mae ganddo frig Gwyddelig.
 
 211
 00:18:19,464 --> 00:18:22,050
@@ -968,11 +968,11 @@ gyrraedd y nenfwd?
 
 217
 00:18:37,065 --> 00:18:39,234
-Mochyn pry cop, pry cop
+Mochyn pry cop, mochyn pry cop
 
 218
 00:18:39,442 --> 00:18:41,903
-Yn gwneud beth bynnag mae Spider-Pig yn ei wneud
+Yn gwneud beth bynnag mae Mochyn Pry Cop yn ei wneud
 
 219
 00:18:42,112 --> 00:18:44,364
@@ -1066,7 +1066,7 @@ ar hyn o bryd ...
 
 240
 00:20:04,361 --> 00:20:08,156
-bydd llygredd yn Lake Springfield 
+bydd llygredd yn Llyn Springfield 
 ar y lefel hon.
 
 241
@@ -1089,12 +1089,12 @@ Mae angen un newydd o'r pethau hynny arnom.
 245
 00:20:24,881 --> 00:20:27,175
 Pawb o blaid lifft siswrn newydd, 
-dywedwch "aye".
+dywedwch "ie".
 
 246
 00:20:27,384 --> 00:20:29,135
-- Aye. 
-- Peidiwch â!
+- Ie. 
+- Na!
 
 247
 00:20:30,220 --> 00:20:34,391
@@ -1168,7 +1168,7 @@ rhwystr hwn yn hollol ddi-hid.
 262
 00:21:38,997 --> 00:21:40,999
 - Cletus. 
-- Yessum?
+- Ydw?
 
 263
 00:21:41,207 --> 00:21:43,251
@@ -1262,12 +1262,12 @@ Iawn, Marge. Mi wnaf.
 
 283
 00:23:11,548 --> 00:23:13,466
-Gallwch chi fynd â Spider-Pig gyda chi.
+Gallwch chi fynd â Mochyn Pry Cop gyda chi.
 
 284
 00:23:13,675 --> 00:23:17,012
-Nid Spider-Pig mohono bellach, 
-Harry Plopper yw e.
+Nid Mochyn Pry Cop mohono bellach, 
+Harri Plopyr yw e.
 
 285
 00:23:30,775 --> 00:23:31,776
@@ -1284,7 +1284,7 @@ siop toesenni , maen nhw'n dosbarthu toesenni am ddim!
 
 288
 00:23:37,407 --> 00:23:40,368
-O, fy Nuw, o, fy Nuw! 
+O, fy Nuw, o, fy Duw! 
 Dim ond un peth sydd gen i i'w wneud gyntaf.
 
 289
@@ -1315,7 +1315,7 @@ talaith sy'n ffinio â Springfield:
 
 295
 00:25:06,371 --> 00:25:10,041
-Ohio, Nevada, Maine a Kentucky.
+Ohio, Nefafa, Maine a Centuci.
 
 296
 00:25:10,500 --> 00:25:11,585
@@ -1360,7 +1360,7 @@ ac mae'n drosedd ffederal.
 
 305
 00:25:49,956 --> 00:25:53,001
-Russ Cargill, pennaeth yr EPA, 
+Russ Cargill, pennaeth yr ADA, 
 yma i weld yr arlywydd.
 
 306
@@ -1404,7 +1404,7 @@ yng nghyfansoddyn Kennedy.
 314
 00:26:25,075 --> 00:26:27,953
 Rydych chi'n gwybod, syr, pan wnaethoch chi 
-fi'n bennaeth yr EPA ...
+fi'n bennaeth yr ADA ...
 
 315
 00:26:28,161 --> 00:26:31,539
@@ -1654,7 +1654,7 @@ fywyd fel rydyn ni'n ei wybod.
 369
 00:30:24,314 --> 00:30:29,444
 Mae'r dref yn rhedeg yn isel ar gyflenwadau o 
-bopeth o gasoline i Botox.
+bopeth o gasoline i Botocs.
 
 370
 00:30:29,653 --> 00:30:31,613
@@ -1713,7 +1713,7 @@ Mae'n rhaid i chi gadw'n dawel a ...
 
 382
 00:31:32,257 --> 00:31:33,466
-O, fy Nuw.
+O, fy Duw.
 
 383
 00:31:33,675 --> 00:31:38,346
@@ -1745,11 +1745,11 @@ Tan eiliadau yn ôl!
 389
 00:32:07,167 --> 00:32:11,004
 Mae darganfyddiad ysgytiol wedi'i 
-wneud yma yn Lake Springfield.
+wneud yma yn Llyn Springfield.
 
 390
 00:32:11,713 --> 00:32:14,174
-Gallai hynny fod yn seilo crap mochyn unrhyw un.
+Gallai hynny fod yn seilo cachu mochyn unrhyw un.
 
 391
 00:32:18,219 --> 00:32:21,932
@@ -1981,7 +1981,7 @@ Crafang arno!
 
 443
 00:37:39,207 --> 00:37:43,128
-Wel, nhw yw problem China nawr.
+Wel, nhw yw problem Tsieina nawr.
 
 444
 00:37:53,096 --> 00:37:54,264
@@ -2016,7 +2016,7 @@ Mae gen i ofn i ni eu colli, syr.
 
 451
 00:38:54,658 --> 00:38:55,992
-Damniwch hi!
+Damiwch hi!
 
 452
 00:38:56,201 --> 00:38:59,120
@@ -2178,7 +2178,7 @@ Na.
 
 487
 00:41:25,016 --> 00:41:26,101
-Nope.
+Na.
 
 488
 00:41:26,309 --> 00:41:27,936
@@ -2190,11 +2190,11 @@ Cadwch gyda mi.
 
 490
 00:41:37,946 --> 00:41:39,030
-Alaska?
+Alasca?
 
 491
 00:41:39,239 --> 00:41:43,201
-Alaska. Man lle na allwch chi 
+Alasca. Man lle na allwch chi 
 fod yn rhy dew neu'n rhy feddw.
 
 492
@@ -2257,7 +2257,7 @@ Diolch yn fawr, fy nghariad.
 505
 00:42:34,711 --> 00:42:36,546
 Rydych chi newydd brynu 
-llwyth arall o crap ...
+llwyth arall o cachu ...
 
 506
 00:42:36,755 --> 00:42:39,799
@@ -2276,7 +2276,7 @@ Homer!
 509
 00:42:43,929 --> 00:42:47,224
 Sut ydyn ni i fod i gyrraedd 
-Alaska heb unrhyw arian?
+Alasca heb unrhyw arian?
 
 510
 00:42:47,432 --> 00:42:51,895
@@ -2340,7 +2340,7 @@ Rhoddaf un ichi ar y tŷ.
 523
 00:43:36,731 --> 00:43:38,567
 - Ti yw'r gorau. 
-- Dad!
+- Tad!
 
 524
 00:43:38,775 --> 00:43:42,445
@@ -2358,7 +2358,7 @@ Ie!
 
 527
 00:44:01,381 --> 00:44:03,258
-Yay, Dad!
+Yay, Tad!
 
 528
 00:44:10,307 --> 00:44:12,517
@@ -2518,7 +2518,7 @@ ac fe welwch yr ateb.
 562
 00:46:58,767 --> 00:47:02,604
 Beth ...? Nid dyma'r ffordd y 
-lluniais i Alaska o gwbl!
+lluniais i Alasca o gwbl!
 
 563
 00:47:02,812 --> 00:47:04,272
@@ -2734,12 +2734,12 @@ rhywbeth rydych chi'n ddi-glem amdano.
 609
 00:51:42,676 --> 00:51:46,137
 Ydych chi wedi blino ar 
-yr un hen Grand Canyon?
+yr un hen Canyon Mawreddog?
 
 610
 00:51:46,346 --> 00:51:49,224
 Dyma ni, blant, 
-y Grand Canyon.
+y Canyon Mawreddog.
 
 611
 00:51:49,432 --> 00:51:53,770
@@ -2770,12 +2770,12 @@ Peth sicr, mab.
 617
 00:52:05,991 --> 00:52:09,077
 Nawr, rwy'n falch o ddweud popeth wrthych chi 
-am y Grand Canyon Newydd.
+am y Canyon Mawreddog Newydd.
 
 618
 00:52:10,495 --> 00:52:12,789
 Penwythnos yma. I'r dwyrain o Shelbyville 
-ac i'r de o Ddinas Capitol.
+ac i'r de o Prifddinas.
 
 619
 00:52:13,290 --> 00:52:14,874
